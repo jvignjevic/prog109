@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Module 01</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Module 01:  Introduction to HTML</h1>
+    <h2>Created by Jelena Vignjevic</h2>
+    <hr>
+    <h3>Rustic Apple Tarts</h3>
+    <figure>
+      <a href="http://www.foodandwine.com/recipes/rustic-apple-tart" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/07/26/16/24/apple-tart-1543199_1280.jpg" alt="Rustic Apple Tart" title="Rustic Apple Tart" width="500"/></a>
+      <p>
+        <figcaption>
+          This recipe for apple tarts is so simple and so delectable!
+        </figcaption>
+      </p>
+    </figure>
+    <h4>More Recipes:</h4>
+    <p>
+      <a href="http://www.myrecipes.com/recipe/lemon-meringue-tart-0"><img src="https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Flemon-meringue-tart-sl.jpg%3Fitok%3DnrvktXmt&w=800&q=85" alt="Lemon Meringue Tart" title="Lemon Meringue Tart" width="250"/></a>
+
+      <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/tiramisu-recipe-2131631" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tiramisu_with_blueberries_and_raspberries%2C_July_2011.jpg" alt="Tiramisu" title="Tiramisu" width="250"/></a>
+
+      <a href="https://tatyanaseverydayfood.com/recipe-items/classic-fruit-tart/" target="_blank">
+        <img src="https://tatyanaseverydayfood.com/wp-content/uploads/2016/07/Classic-Fruit-Tart.jpg" alt="Classic Fruit Tart" title="Classic Fruit Tart" width="150"/></a>
+
+      <a href="https://www.tasteofhome.com/recipes/vanilla-frosting" target="_blank"><img src="https://assets.marthastewart.com/styles/video-preview-1280x720-highdpi/d25/EH0054-Vanilla%20Frosting%203/EH0054-Vanilla%20Frosting%203.jpg?itok=Rq0lpHSu" alt="Vanilla Frosting" title="Vanilla Frosting" width="250"></a>
+
+      <a href="https://www.familycircle.com/recipe/classic-yule-log/" target="_blank"><img src="https://mt-backend-familycircle-environment-contentbucket-1qlli1qnqqj9z.s3.amazonaws.com/s3fs-public/styles/398x398/public/recipe/550_RU238105.jpg" alt="Yule Log" title="Yule Log" width="150"></a>
+
+  </body>
+</html>
